@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HomeDashboard.iml" filepath="$PROJECT_DIR$/HomeDashboard.iml" />
+      <module fileurl="file://C:\HomeDashboard\HomeDashboard.iml" filepath="C:\HomeDashboard\HomeDashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\HomeDashboard\app\app.iml" filepath="C:\HomeDashboard\app\app.iml" />
     </modules>
   </component>
 </project>
